@@ -16,6 +16,12 @@
 
 ###
 
+<div align="center">
+  <p> I'm also contributing to a project with the Coeur d’Alene Online Language Resource Center (COLRC), a community-lead language technology development project that focuses on the needs of a low-resource, minoritized language community.</p>
+</div>
+
+###
+
 <h3 align="center">I speak a few different "languages":<br><br>Human: English, Spanish 🇲🇽<br><br>Code:</h3>
 
 ###
