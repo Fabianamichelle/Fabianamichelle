@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Right now, I’m working on FabBuilds and Fabblogs, and looking forward to an internship in May, but when I’m not coding you can usually find me experimenting with side projects, tinkering with new frameworks, or breaking things on purpose just to figure out how to fix them.</p>
+<p align="center">Right now, I’m working on FabBuilds and Fabblogs, but when I’m not coding you can usually find me experimenting with side projects, tinkering with new frameworks, or breaking things on purpose just to figure out how to fix them.</p>
 
 ###
 
